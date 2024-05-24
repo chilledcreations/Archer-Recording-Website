@@ -1,7 +1,7 @@
 <?php
 $host = "feenix-mariadb.swin.edu.au";
 $user = "cos20031_2"; // your user name
-$pwd = "3aBdHkv9QY"; 
+$pwd = ""; // Update with password :) 
 $sql_db = "cos20031_2_db"; // your database
 
 
